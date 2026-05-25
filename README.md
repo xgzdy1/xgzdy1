@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm guozheng xiao 👋
 
-一名前端 / 全栈开发者，专注于 React、Node.js 和工程化实践。
+一名后端 / 全栈开发者
 
 ## 关于我
 - 🌱 目前正在学习：AI相关
