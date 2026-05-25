@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ## 关于我
 - 🌱 目前正在学习：AI相关
 - 💼 求职方向：前后端开发 / 全开发
-- 📍 所在地：上海
+- 📍 所在地：广东
 - ✉️ 邮箱：dyxiaoguozheng@163.com
 - 📝 博客：https://yourblog.com
 - 💬 擅长：Java、SpringBoot、Redis、MySQL、
