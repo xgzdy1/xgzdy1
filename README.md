@@ -31,23 +31,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm 张三 👋
+# Hi, I'm guozheng xiao 👋
 
 一名前端 / 全栈开发者，专注于 React、Node.js 和工程化实践。
 
 ## 关于我
-- 🌱 目前正在学习：TypeScript、系统设计
-- 💼 求职方向：前端开发 / 全开发
+- 🌱 目前正在学习：AI相关
+- 💼 求职方向：前后端开发 / 全开发
 - 📍 所在地：上海
-- ✉️ 邮箱：yourname@email.com
+- ✉️ 邮箱：dyxiaoguozheng@163.com
 - 📝 博客：https://yourblog.com
-- 💬 擅长：React、Next.js、Node.js、MySQL
+- 💬 擅长：Java、SpringBoot、Redis、MySQL、
 
 ## 技术栈
-- 前端：HTML / CSS / JavaScript / TypeScript / React / Vue
-- 后端：Node.js / Express / NestJS
-- 数据库：MySQL / PostgreSQL / MongoDB
-- 工具：Git / Docker / GitHub Actions / Linux
+- 前端：HTML / CSS / JavaScript / Vue
+- 后端：SpringBoot 
+- 数据库：MySQL / Redis / Kafka
+- 工具：Git / Docker / K8s / Linux
 
 ## 项目经历
 
