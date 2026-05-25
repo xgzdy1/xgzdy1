@@ -30,3 +30,57 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm 张三 👋
+
+一名前端 / 全栈开发者，专注于 React、Node.js 和工程化实践。
+
+## 关于我
+- 🌱 目前正在学习：TypeScript、系统设计
+- 💼 求职方向：前端开发 / 全开发
+- 📍 所在地：上海
+- ✉️ 邮箱：yourname@email.com
+- 📝 博客：https://yourblog.com
+- 💬 擅长：React、Next.js、Node.js、MySQL
+
+## 技术栈
+- 前端：HTML / CSS / JavaScript / TypeScript / React / Vue
+- 后端：Node.js / Express / NestJS
+- 数据库：MySQL / PostgreSQL / MongoDB
+- 工具：Git / Docker / GitHub Actions / Linux
+
+## 项目经历
+
+### 1. 项目名称
+- 项目简介：这是一个用于 xxx 的平台
+- 技术栈：React + Node.js + MySQL
+- 我的职责：
+  - 负责前端架构搭建
+  - 完成登录、权限、列表、图表模块
+  - 优化首屏加载速度
+- 项目链接：https://github.com/yourname/project1
+
+### 2. 项目名称
+- 项目简介：这是一个 xxx 系统
+- 技术栈：Vue + Express + MongoDB
+- 我的职责：
+  - 设计 REST API
+  - 实现后台管理系统
+  - 部署到云服务器
+- 项目链接：https://github.com/yourname/project2
+
+## 工作 / 实习经历
+### 公司名称 — 前端开发实习生
+2024.06 - 2024.09
+- 参与公司内部管理系统开发
+- 负责订单模块与数据可视化页面
+- 修复多个线上问题并优化用户体验
+
+## GitHub 数据
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true)
+
+## 联系我
+- Email: yourname@email.com
+- GitHub: https://github.com/yourname
+- LinkedIn: https://linkedin.com/in/yourname
+
