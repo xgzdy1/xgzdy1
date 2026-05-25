@@ -1,4 +1,11 @@
 ## Hi there 👋
+-xiaoguozheng
+-626185608@qq.com
+-guangdong
+-技能栈
+-项目经验
+-教育背景
+-github项目链接
 
 <!--
 **xgzdy1/xgzdy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
